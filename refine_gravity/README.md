@@ -6,7 +6,7 @@
 假設所量測到的重力為 $g_{0}$ ，我們要找到一個 $g_{0}$ 切平面上的 $b_{1}$ 以及 $b_{2}$ 來組成基底
 
 <p align="center">
-  <img width="600" height="200" src=../image/refine_gravity.png>
+  <img src=../image/refine_gravity.png>
 </p>
 
 $$
